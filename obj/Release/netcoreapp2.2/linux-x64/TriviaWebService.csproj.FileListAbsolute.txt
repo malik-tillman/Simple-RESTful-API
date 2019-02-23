@@ -1,0 +1,15 @@
+C:\Users\malik\Desktop\Android_Programs\Personal\TriviaAppMaster\TriviaWebService\bin\Release\netcoreapp2.2\linux-x64\TriviaWebService
+C:\Users\malik\Desktop\Android_Programs\Personal\TriviaAppMaster\TriviaWebService\bin\Release\netcoreapp2.2\linux-x64\TriviaWebService.deps.json
+C:\Users\malik\Desktop\Android_Programs\Personal\TriviaAppMaster\TriviaWebService\bin\Release\netcoreapp2.2\linux-x64\TriviaWebService.runtimeconfig.json
+C:\Users\malik\Desktop\Android_Programs\Personal\TriviaAppMaster\TriviaWebService\bin\Release\netcoreapp2.2\linux-x64\TriviaWebService.runtimeconfig.dev.json
+C:\Users\malik\Desktop\Android_Programs\Personal\TriviaAppMaster\TriviaWebService\bin\Release\netcoreapp2.2\linux-x64\TriviaWebService.dll
+C:\Users\malik\Desktop\Android_Programs\Personal\TriviaAppMaster\TriviaWebService\bin\Release\netcoreapp2.2\linux-x64\TriviaWebService.pdb
+C:\Users\malik\Desktop\Android_Programs\Personal\TriviaAppMaster\TriviaWebService\obj\Release\netcoreapp2.2\linux-x64\TriviaWebService.csprojAssemblyReference.cache
+C:\Users\malik\Desktop\Android_Programs\Personal\TriviaAppMaster\TriviaWebService\obj\Release\netcoreapp2.2\linux-x64\TriviaWebService.csproj.CoreCompileInputs.cache
+C:\Users\malik\Desktop\Android_Programs\Personal\TriviaAppMaster\TriviaWebService\obj\Release\netcoreapp2.2\linux-x64\TriviaWebService.RazorAssemblyInfo.cache
+C:\Users\malik\Desktop\Android_Programs\Personal\TriviaAppMaster\TriviaWebService\obj\Release\netcoreapp2.2\linux-x64\TriviaWebService.RazorAssemblyInfo.cs
+C:\Users\malik\Desktop\Android_Programs\Personal\TriviaAppMaster\TriviaWebService\obj\Release\netcoreapp2.2\linux-x64\TriviaWebService.AssemblyInfoInputs.cache
+C:\Users\malik\Desktop\Android_Programs\Personal\TriviaAppMaster\TriviaWebService\obj\Release\netcoreapp2.2\linux-x64\TriviaWebService.AssemblyInfo.cs
+C:\Users\malik\Desktop\Android_Programs\Personal\TriviaAppMaster\TriviaWebService\obj\Release\netcoreapp2.2\linux-x64\TriviaWebService.RazorTargetAssemblyInfo.cache
+C:\Users\malik\Desktop\Android_Programs\Personal\TriviaAppMaster\TriviaWebService\obj\Release\netcoreapp2.2\linux-x64\TriviaWebService.dll
+C:\Users\malik\Desktop\Android_Programs\Personal\TriviaAppMaster\TriviaWebService\obj\Release\netcoreapp2.2\linux-x64\TriviaWebService.pdb
